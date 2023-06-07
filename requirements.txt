@@ -1,0 +1,5 @@
+peft==0.3.*
+datasets==2.12.*
+bitsandbytes==0.39.*
+transformers==4.29.*
+accelerate==0.19.*
